@@ -1,5 +1,5 @@
 # moving-mp3-and-mp4-files
-This repository contains programs that help to move mp3 and mp4 files from the downloads folder to Music.
+This repository contains a python script that moves mp3 and mp4 files from the Downloads to Music folder.
 
 The program can be changed to move other things other than mp3 or mp4 files. 
 
